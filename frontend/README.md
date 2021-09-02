@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+![alt text](https://github.com/tiiko123/cr/blob/master/frontend/consola%20angular.JPG)
+
+![alt text](https://github.com/tiiko123/cr/blob/master/frontend/listado%20de%20pel%C3%ADculas%20angular.JPG)
+![alt text](https://github.com/tiiko123/cr/blob/master/frontend/agregar%20pel%C3%ADcula%20angular.JPG)
+
+![alt text](https://github.com/tiiko123/cr/blob/master/frontend/pel%C3%ADcula%20individual%20angular.JPG)
+
+![alt text](https://github.com/tiiko123/cr/blob/master/frontend/editar%20pel%C3%ADcula%20angular.JPG)
+
+
+![alt text](https://github.com/tiiko123/cr/blob/master/frontend/borrar%20pel%C3%ADcula%20angular.JPG)
